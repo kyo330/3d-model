@@ -1,0 +1,14 @@
+build-essential
+cmake
+git
+wget
+ninja-build
+libboost-all-dev
+libeigen3-dev
+libfreeimage-dev
+libmetis-dev
+libgoogle-glog-dev
+libgflags-dev
+libglew-dev
+qtbase5-dev
+mesa-utils
